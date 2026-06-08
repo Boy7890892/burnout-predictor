@@ -34,6 +34,11 @@ Sistem ini memproses kombinasi fitur multi-dimensi untuk menghasilkan keputusan 
 
 ---
 
+## 📄 Lisensi
+Hak Cipta © 2026 Akhmad Ridwan Ariyanto. Hak cipta dilindungi undang-undang.
+
+Lihat file [LICENSE](./LICENSE) untuk informasi lebih lanjut mengenai batasan penggunaan kode ini.
+
 ## 📁 Struktur Folder Proyek
 Proyek ini dibangun dengan struktur direktori modular yang rapi dan terpisah:
 
