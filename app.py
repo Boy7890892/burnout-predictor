@@ -59,5 +59,11 @@ def predict():
     except Exception as e:
         return jsonify({'status': 'error', 'message': str(e)})
 
+# ... (kode route kamu yang atas tetap biarkan sama)
+
+# Hapus atau ubah bagian paling bawah menjadi seperti ini:
 if __name__ == '__main__':
     app.run(debug=True)
+else:
+    # Ini trik khusus agar Vercel mengenali objek app saat dideploy
+    app = app
