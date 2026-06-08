@@ -63,8 +63,3 @@ BURNOUT-PREDICTOR/
 ├── requirements.txt            # Daftar library dependency python versi UTF-8
 ├── train_and_save.py           # Script eksekusi training menyeluruh
 └── vercel.json                 # File konfigurasi routing deployment Vercel
-
-## 📄 Lisensi
-Hak Cipta © 2026 Akhmad Ridwan Ariyanto. Hak cipta dilindungi undang-undang.
-
-Lihat file [LICENSE](./LICENSE) untuk informasi lebih lanjut mengenai batasan penggunaan kode ini.
