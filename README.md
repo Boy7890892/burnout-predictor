@@ -60,4 +60,6 @@ BURNOUT-PREDICTOR/
 └── vercel.json                 # File konfigurasi routing deployment Vercel
 
 ## 📄 Lisensi
-Proyek ini dilindungi hak cipta eksklusif. Sila lihat file [LICENSE](LICENSE) untuk informasi lebih lanjut.
+Hak Cipta © 2026 Akhmad Ridwan Ariyanto. Hak cipta dilindungi undang-undang.
+
+Lihat file [LICENSE](./LICENSE) untuk informasi lebih lanjut mengenai batasan penggunaan kode ini.
